@@ -1,0 +1,6 @@
+Овсянко|Татьяна|25|Fullstack developer|+380500000000
+Shevchenko|Olena|26|Python developer|+380501112233
+Koval|Andrii|31|QA engineer|+380671234567
+Bondar|Iryna|26|Project manager|+380931234567
+Sydorenko|Maksym|38|C# developer|+380991234567
+White|John|29|Java developer|+380631234567
